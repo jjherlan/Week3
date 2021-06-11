@@ -1,0 +1,28 @@
+---
+title: "Week 3: Demo repo"
+output:
+  html_document:
+    fig_caption: yes
+    theme: cerulean
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+# Week 3 Demo
+
+This is a demo of a landing page with a table of contents.
+
+## Installation
+
+```
+# no install needed
+```
+
+## Output
+
+Here is what `plot.R` does
+
+```{r}
+plot(1:10)
+```
